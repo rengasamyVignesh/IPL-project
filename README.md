@@ -1,4 +1,4 @@
- IPL (2008-2022) Report Analysis Using Power BI:
+# IPL (2008-2022) Report Analysis Using Power BI
  
  • Data Points: Ensure you have the following key metrics:
  
